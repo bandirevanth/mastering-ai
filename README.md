@@ -34,48 +34,48 @@ _**Project created & maintained by Bandi Revanth.**_
 # Primer Concepts
 Since the invention of computers or machines, their capability to perform various tasks has experienced an exponential growth. Humans have developed the power of computer systems in terms of their diverse working domains, their incresing speed, and reducing size with respect to time.
 
-A branch of Computer Science named Artificial Intelligence pursues creating the computers or machines as intelligent as human beings.
+A branch of Computer Science named Artificial Intelligence pursues creating computers or machines as intelligent as human beings.
 
 ## Basic Concept of Artificial Intelligence (AI)
 According to the father of Artificial Intelligence, John McCarthy, it is "The science and engineering of making intelligent machines, especially intelligent computer programs". 
 
-Artificial Intelligence is a way of making a computer, a computer-controlled robot, or a software think intelligently, in the similar manner to intelligent human think. AI is accomplished by studying how human brain thinks and how humans learn, decide, and work while trying to solve a problem, and then using the ourcomes of this study as a basis of developing intelligent software and systems.
+Artificial Intelligence is a way of making a computer, a computer-controlled robot, or a software think intelligently, in a similar manner to how intelligent humans think. AI is accomplished by studying how the human brain thinks and how humans learn, decide, and work while trying to solve a problem, and then using the outcomes of this study as a basis for developing intelligent software and systems.
 
-While exploiting the power of AI started with intention of creating similar intelligence in machines that we find and regard high in humans.
+While exploiting the power of AI started with the intention of creating similar intelligence in machines that we find and regard as high in humans.
 
 ## The Necessity of Learning AI
-As we know that AI purues creating the machines as intelligent as human beings. There are numerous reasons for us to study AI. The reasons are as follows -
+There are numerous reasons for us to study AI:
 
 ### AI can learn through data
-In our daily life, we deal with huge amount of data and human brain cannot keep track of so much data. That is why we need to automate the things. For doing automation, we need to study AI because it can learn from data and can do the repetitive tasks with accuracy and without tiredness.
+In our daily life, we deal with a huge amount of data, and the human brain cannot keep track of so much data. That is why we need to automate tasks.
 
 ### AI can teach itself
-It is very necessary that a system should teach itself because the data itself keeps changing and the knowledge which is derived from such data must be updated constantly. We can use AI to fulfill this purpose because an AI enabled system can teach itself.
+It is very necessary that a system should teach itself because the data itself keeps changing, and the knowledge that is derived from such data must be updated constantly. Hence, We can use AI to fulfil this purpose because an AI-enabled system can teach itself.
 
 ### AI can respond in real time
-Artificial intelligence with the help of neural networks can analyze the data more deeply. Due to this capability, AI can think and respond to the situations which are based on the conditions in real time.
+AI, with the help of neural networks, can analyse the data more deeply. Due to this capability, AI can think and respond to the situations which are based on the conditions in real-time.
 
 ### AI achieves accuracy
 With the help of deep neural networks, AI can acieve tremendous accuracy. AI helps in the field of medicine to diagnose diseases such as cancer from the MRIs of patients.
 
-### AI can organize data to get most out of it
+### AI can organise data to get the most out of it
 The data is an intellectual property for the system which are using self-learning algorithms. We need AI to index and organize the data in a way that it always gives the best results.
 
 ### Understanding Intelligence
-With AI, smart systems can be built. We need to undestand the concept of intelligence so that our brain can construct another intelligence system like itself.
+With AI, smart systems can be built. We need to understand the concept of intelligence so that our brain can construct another intelligence system like itself.
 
 ## What is Intelligence?
-The ability of a system to calculate, reason, perceive relationships and analogies, learn from experience, store and retrieve information from memory, solve problems, comprehend complex ideas, use natural language fluently, classify, generalize, and adapt new situations.
+The ability of a system to calculate, reason, perceive relationships and analogies, learn from experience, store and retrieve information from memory, solve problems, comprehend complex ideas, use natural language fluently, classify, generalise, and adapt to new situations.
 
 | Sr.No | Intelligence & Description | Example |
 --- | --- | --- |
-|1 | **Linguistic intelligence**. The ability to speak, recognize, and use mechanisms of phonology (speech sounds), syntax (grammar), and semantics (meaning). | Narrators, Operators | 
-| 2 | **Musical intelligence**. The ability to create, communicate with, and undestand meanings made of sound, understanding of pitchm rhythm. | Musicians, Singers, Composers |
-| 3 | **Logical-mathemetical intelligence**. The ability to use and undestand relationships in the absence of action or objects. It is also the ability to understand complex and abstract ideas. | Mathematicians, Scientists |
-| 4 | **Spatial intelligence**. The ability to perceive visual or spacial information, change it, and re-create visual images without reference to the objects, construct 3D images, and to move and rotate them. | Map readers, Astronauts, Physicists |
-| 5 | **Bodily-Kinesthetic intelligence**. The abiility to use complete or part of the body to solve problems or fashion products, control over fine and coarse motor skills, and manipulate the objects. | Players, Dancers |
-| 6 | **Intra-personal intelligence**. The ability to distinguish among one's own feelings, intentions, and motivations. | Gautam Buddhha |
-| 7 | **Interpersonal intelligence**. The ability to recognize and make distinctions among other people's feelings, beliefs, and intentions. | Mass Communicators, Interviewers |
+|1 | **Linguistic intelligence**. The ability to speak, recognise, and use mechanisms of phonology (speech sounds), syntax (grammar), and semantics (meaning). | Narrators, Operators | 
+| 2 | **Musical intelligence**. The ability to create, communicate with, and understand meanings made of sound, understanding of pitch and rhythm. | Musicians, Singers, Composers |
+| 3 | **Logical-mathemetical intelligence**. The ability to use and understand relationships in the absence of action or objects. It is also the ability to understand complex and abstract ideas. | Mathematicians, Scientists |
+| 4 | **Spatial intelligence**. The ability to perceive visual or spatial information, change it, and re-create visual images without reference to the objects, construct 3D images, and move and rotate them. | Map readers, Astronauts, Physicists |
+| 5 | **Bodily-Kinesthetic intelligence**. The ability to use the complete or part of the body to solve problems or fashion products, control over fine and coarse motor skills, and manipulate objects. | Players, Dancers |
+| 6 | **Intra-personal intelligence**. The ability to distinguish among one's own feelings, intentions, and motivations. | Gautam Buddha |
+| 7 | **Interpersonal intelligence**. The ability to recognise and make distinctions among other people's feelings, beliefs, and intentions. | Mass Communicators, Interviewers |
 
 You can say a machine or a system is artificially intelligent when it is equipped with a least one or all intelligence in it.
 
@@ -91,28 +91,28 @@ The intelligence is intangible. It is composed of:
 ![01 Intelligence](https://user-images.githubusercontent.com/124214430/222724983-0eb6649d-36ca-4039-b3f4-60d8169180a2.png)
 
 ### Reasoning
-It is the set of processes that enables us to provide besis for judgement, making decisions, and prediction. There are broadly two types:
+It is the set of processes that enables us to provide a basis for judgment, making decisions, and prediction. There are broadly two types:
 
 1. [**Inductive Reasoning**](https://www.scribbr.com/methodology/inductive-reasoning/)
 
-* It conducts specific observations to makes broad general statements. 
+* It conducts specific observations to make broad general statements. 
 * Even if all of the premises are true in a statement, inductive reasoning allows for the conclusion to be false.
 
-**Example**: "Nita is a teacher, Nita is studious. Therefore, All teachers are studious." 
+**Example**: "Nita is a teacher, Nita is studious. Therefore, all teachers are studious." 
 
 2. [**Deductive Reasoning**](https://www.scribbr.com/methodology/deductive-reasoning/)
 
 * It starts with a general statement and examines the possibilities to reach a specific, logical conclusion.
 * If something is true of a class of things in general, it is also true for all members of that class.
 
-**Example**: "All women of age above 60 years are grandmothers. Shalini is 65 years. Therefore, Shalini is a grandmother."
+**Example**: "All women of age above 60 years are grandmothers. Shalini is 65 years old. Therefore, Shalini is a grandmother."
 
 ### Learning - 1
-The ability of learning is prossessed by humans, particular species of animals, and AI-enabled systems. Learning is categorized as follows:
+The ability of learning is processed by humans, particular species of animals, and AI-enabled systems. Learning is categorised as follows:
 
 1. **Auditory Learning**
 
-* It is learning by listening and hearing. For example, students listening to recorded audio lectures.
+* It is learning by listening and hearing. For example, students listen to recorded audio lectures.
 
 2. **Episodic Learning**
 
@@ -120,22 +120,22 @@ The ability of learning is prossessed by humans, particular species of animals, 
 
 3. **Motor Learning**
 
-* It is learning by precise movement of muscles. For example, picking objects, writing, etc.
+* It is learning by the precise movement of muscles. For example, picking objects, writing, etc.
 
 4. **Observational Learning**
 
-* To learn by watching and imitating others. For example, child tries to learn by mimicking her parent.
+* To learn by watching and imitating others. For example, a child tries to learn by mimicking her parent.
 
 5. **Perceptual Larning**
 
-* It is learning to recognize stimuli that one has seen before. For example, identifying and classifying objects and situations.
+* It is learning to recognise stimuli that one has seen before. For example, identifying and classifying objects and situations.
 
 6. **Relational Learning**
 
-* It involves learning to differentiate among various stimuli on the basis of relational properties, rather than absolute properties. For Example, Adding 'little less' salt at the time of cooking potatoes that came up salty last time, when cooked with adding say a tablespoon of salt.
+* It involves learning to differentiate among various stimuli based on relational properties, rather than absolute properties. For Example, adding 'a little less' salt at the time of cooking potatoes that came up salty last time, when cooked with adding, say, a tablespoon of salt.
 
-    * **Spatial Learning** - It is learning through visual stimuli such as images, colors, maps, etc. For example, A person can create roadmap in mind before actually following the road.
-    * **Stimulus-Response Learning** - It is learning to perform a particular behavior when a certain stimulus is present. For example, a dog raises its ear on hearing doorbell.
+    * **Spatial Learning** - It is learning through visual stimuli such as images, colours, maps, etc. For example, A person can create a roadmap in mind before actually following the road.
+    * **Stimulus-Response Learning** - It is learning to perform a particular behaviour when a certain stimulus is present. For example, a dog raises its ear on hearing the doorbell.
 
 7. **Problem Solving**
 
@@ -144,76 +144,76 @@ The ability of learning is prossessed by humans, particular species of animals, 
 
 8. **Perception**
 
-* It is the process of aquiring, interpreting, selecting, and organizing sensory information.
-* Perception presumes **sensing**. In humans, perception is aided by sensory organs. In the domain of AI, perception mechanism puts the data aquired by the sensors together in a meaningful manner.
+* It is the process of acquiring, interpreting, selecting, and organising sensory information.
+* Perception presumes **sensing**. In humans, perception is aided by sensory organs. In the domain of AI, the perception mechanism puts the data acquired by the sensors together in a meaningful manner.
 
 9. **Linguistic Intelligence**
 
 * It is one's ability to use, comprehend, speak, and write the verbal and written language. It is important in interpersonal communication.
 
 ## What's Involved in AI
-Artificial intelligence is a vast area of study. This field of study helps in finding solutions to real world problems. Let us now see the different fields of study within AI:
+Artificial intelligence is a vast area of study. This field of study helps in finding solutions to real-world problems. Let us now see the different fields of study within AI:
 
 1. **Machine Learning**
 
-* It is one of the most popular fields of AI. The basic concept of this field is to make the machine learning from data as the human beings can learn from his/her experience. It contains learning models on the basis of which the predictions can be made on unknown data.
+* It is one of the most popular fields of AI. The basic concept of this field is to make inferences from data, as human beings can learn from his/her experience. It contains learning models on the basis of which the predictions can be made on known/unknown data.
 
 2. **Logic**
 
-* It is another important field of study in which mathematical logic is used to execute the computer programs. It contains rules and facts to perform pattern matching, semantic analysis, etc.
+* It is another important field of study in which mathematical logic is used to execute computer programs. It contains rules and facts to perform pattern matching, semantic analysis, etc.
 
 3. **Searching**
 
-* This field of study is basically used in games like chess, tic-tac-toe. Search algorithms give the optimal solution after searching the whole search space.
+* This field of study is used in games like chess, tic-tac-toe. Search algorithms give the optimal solution after searching the whole search space.
 
 4. **Artificial neural networks**
 
-* This is a network of efficient computing systems the central theme of which is borrowed from the analogy of biological neural networks. ANN can be used in robotics, speech recognition, speech processing, etc.
+* This is a network of efficient computing systems, the central theme of which is borrowed from the analogy of biological neural networks. ANN can be used in robotics, speech recognition, speech processing, etc.
 
 5. **Genetic Algorithm**
 
-* Genetic algorithms help in solving problems with the assistance of more than one program. The result would be besed on selectinmg the fittest.
+* Genetic algorithms help in solving problems with the assistance of more than one program. The result would be based on selecting the fittest.
 
 6. **Knowledge Representation**
 
-* It is the field of study with the help of which we can represent the facts in a way the machine that is undestandable to the machine. The more efficiently knowledge is represented, the more system would be intelligent.
+* It is the field of study with the help of which we can represent the facts in a way the machine that is understandable to the machine. The more efficiently knowledge is represented, the more system would be.
 
 ## Application of AI
 In this section, we will see  the different fields supported by AI.
 
 1. **Gaming**
 
-* AI plays crucial role in strategic games such as chess, poker, tic-tac-toe, etc., where machine can think of large number of possibile positions based on heuristic knowledge.
+* AI plays a crucial role in strategic games such as chess, poker, tic-tac-toe, etc., where machines can think of a large number of possible positions based on heuristic knowledge.
 
 2. **Natural Language Processing**
 
-* It is possible to interact with the computer that understand natural language spoken by humans.
+* It is possible to interact with a computer that understands natural language spoken by humans.
 
 3. **Expert Systems**
 
-* There are some appluications which integrate machine, software, and special information to impact reasoning and advising. They provide explanation and advice to the users.
+* Some applications integrate machine, software, and special information to impact reasoning and advising. They provide explanation and advice to the users.
 
 4. **Vision Systems**
 
-* Thease systems understand, interpret, and comprehend visual input on the computer. For example:
-    * A spying aeroplane takes photohraphs, which are used to figure out spatial information or map of the areas.
-    * Doctors use clinical expert system to diagnose the patient.
-    * Police use computer software that can recognize the face of criminal with the stored portrait made by forensic artist.
+* These systems understand, interpret, and comprehend visual input on the computer. For example:
+    * A spying aeroplane takes photographs, which are used to figure out spatial information or a map of the areas.
+    * Doctors use a clinical expert system to diagnose the patient.
+    * Police use computer software that can recognise the face of a criminal with the stored portrait made by a forensic artist.
 
 5. **Speech Recognition**
 
-* Some intelligent systems are capable of hearing and comprehending thelanguage in terms of sentences and their meanings while a human talks to it. It can handle different accents, slang words, noise in the background, change in human's noise due to cold, etc.
+* Some intelligent systems are capable of hearing and comprehending the language in terms of sentences and their meanings while a human talks to it. It can handle different accents, slang words, noise in the background, changes in human noise due to cold, etc.
 
 6. **Handwriting Recognition**
 
-* The handwriting recognition software reads the text written on paper by a pen or on screen by a stylus. It can recognize the shapes of the letters and convert it into editable text.
+* The handwriting recognition software reads the text written on paper by a pen or on screen by a stylus. It can recognise the shapes of the letters and convert them into editable text.
 
 7. **Intelligent Robots**
 
-* Robots are able to perform the tasks given by a human. They have sensors to detect physical data from the real world such as light, heat, temperature, movement, sound, bump, and presure. They have efficient processors, multiple sensors and huge memory, to exhibit intelligence. In addition, they are capable of learning from their mistakes and the can adapt to the new environment. 
+* Robots can perform the tasks given by a human. They have sensors to detect physical data from the real world such as light, heat, temperature, movement, sound, bump, and pressure. They have efficient processors, multiple sensors and huge memory to exhibit intelligence. In addition, they are capable of learning from their mistakes and can adapt to the new environment. 
 
-## Cognitive Modeling: Simulating Human Thinking Procedure
-Cognitive modeling is basically the field of study within computer science that edals with the study and simulating the thinking process of human beings. The main task of AI is to make machine think like human. The most important feature of human thinking process is problem solving. That is why more or less cognitive modeling tries to undestand how humans can solve the problems. After that this model can be used for various AI applications such as machine learning, robotics, natural language processing, etc. Following is the diagram of different thinking levels of human brain:
+## Cognitive Modelling: Simulating Human Thinking Procedure
+Cognitive modelling is basically the field of study within computer science that deals with the study and simulation the thinking process of human beings. The main task of AI is to make machines think like humans. The most important feature of the human thinking process is problem solving. That is why more or less cognitive modelling tries to understand how humans can solve the problems. After that, this model can be used for various AI applications such as machine learning, robotics, natural language processing, etc. The following is the diagram of the different thinking levels of the human brain:
 
 ![02 Brain](https://user-images.githubusercontent.com/124214430/222725005-3b196c64-c3db-45b0-9744-5579ac279b21.png)
 
@@ -223,20 +223,20 @@ In this section, we will focus on the agent and environment and how these help i
 ### Agent
 An agent is anything that can perceive its environment through sensors and act upon that environment through effectors.
 
-* A **human agent** has sensory organs such as eyes, ears, nose, tongue and skin parallel to the sensors, and other organs such as hand, legs, mouth, for effectors. 
-* A **robotic agent** replaces cameras and intrared range finders for the sensors, and various motors and actuators for effectors. 
+* A **human agent** has sensory organs such as eyes, ears, nose, tongue and skin parallel to the sensors, and other organs such as hands, legs,and  mouth for effectors. 
+* A **robotic agent** replaces cameras and infrared range finders for the sensors, and various motors and actuators for effectors. 
 * A **software agent** has encoded bit strings as its programs and actions. 
 
 ### Environment
 Some programs operate in an entirely **artificial environment** confined to keyboard input, database, computer file systems and character output on a screen. 
 
-In contrast, some software agents (software robots or softbots) exist in rich, unlimited softbots domains. The simulator has a **very detailed, complex environment**. The software agent needs to choose from a long array of actions in real time. A softbot is designed to scan online preferences of the customer and shows interesting items to the customer works in the **real** as well as an **artificial** environment.
+In contrast, some software agents (software robots or softbots) exist in rich, unlimited softbot domains. The simulator has a **very detailed, complex environment**. The software agent needs to choose from a long array of actions in real time. A softbot is designed to scan the online preferences of the customer and show interesting items to the customer ,works in the **real** as well as an **artificial** environment.
 
 # Getting Started
-In this chapter, we will learn how to get started with Python. We will also undestand how Python helps for Artificial Intelligence.
+In this chapter, we will learn how to get started with Python. We will also understand how Python helpswithr Artificial Intelligence.
 
 ## Why Python for AI
-Artificial intelligence is considered to be the trending technology of the future. Already there are a number of applications made on it. Due to this, many companies and researchers are taking interest in it. But the main question that arises here is that in which programming language can these AI applications be developed? There are various programming languages like Lisp, Prolog, C++, Java and Python, which can be used for developing applications of AI. Among them, Python programming language gains a huge popularity and the reasons are as follows:
+Artificial intelligence is considered to be the trending technology of the future. Already, there are a number of applications made on it. Due to this, many companies and researchers are taking an interest in it. But the main question that arises here is which programming language can these AI applications be developed? There are various programming languages like Lisp, Prolog, C++, Java and Python, which can be used for developing applications of AI. Among them, Python programming language gains a huge popularity and the reasons are as follows:
 
 1. **Simple syntax & less coding**
 
@@ -246,18 +246,18 @@ Artificial intelligence is considered to be the trending technology of the futur
 
 * A major advantage for using Python for AI is that it comes with inbuilt libararies. Python has libaries for almost all kinds of AI projects. For example, **NumPy**, **SciPy**, **matplotlib**, **nltk**, **SimpleAI** are some the important inbuilt libraries of Python.
     * **Open Source** - Python is an open source programming language. This makes it widely popular in the community.
-    * **Can be used for broad range of programming** - Python can be used for a broad range of programming tasks like small shell script to enterprise web applications. This is another reason Python is suitable for AI projects.
+    * **Can be used for a broad range of programming** - Python can be used for a broad range of programming tasks, like small shell scripts to enterprise web applications. This is another reason Python is suitable for AI projects.
 
 ## Features of Python
-Python is a high-level, interpreted, interactive and object-oriented scripting language. Python is designed to be highly readable. It uses English keywords frequently where as other languages use punctuation, and it has fewer syntactical constructions than other languages. Python's features include the following:
+Python is a high-level, interpreted, interactive and object-oriented scripting language. Python is designed to be highly readable. It uses English keywords frequently where whereas other languages use punctuation, and it has fewer syntactical constructions than other languages. Python's features include the following:
 
-* **Easy-to-learn** - Python was few keywords, simple structure, and a clearly defined syntax. This allows the student to pick up the language quickly. 
+* **Easy-to-learn** - Python has a few keywords, a simple structure, and a clearly defined syntax. This allows the student to pick up the language quickly. 
 * **Easy-to-read** - Python code is more clearly defined and visible to the eyes. 
 * **Easy-to-maintain** - Python's source code is fairly easy-to-maintain.
-* **A broad standard libary** - Python's bulk of the libary is very portable and cross-platform compatible on UNIX, Windows, and Macintosh.
+* **A broad standard library** - Python's bulk of the library is very portable and cross-platform compatible on UNIX, Windows, and Macintosh.
 * **Interactive Mode** - Python has support for an interactive mode which allows interactive testing and debugging of snippets of code.
 * **Portable** - Python can run on a wide variety of hardware platforms and has the same interface on all platforms.
-* **Extendable** - We can add low-level modules to the Python interpreter. These modules enable programmers to add to or customize their tools to be more efficient.
+* **Extendable** - We can add low-level modules to the Python interpreter. These modules enable programmers to add to or customise their tools to be more efficient.
 * **Databases** - Python provides interfaces to all major commercial databases.
 * **GUI Programming** - Python supports GUI applications that can be created and ported to many system calls, libaries and windows systems, such as Windows MFC, Macintosh, and the X Windows system of Unix.
 * **Scalable** - Python provides a better structure and support for large programs than shell scripting.
@@ -275,18 +275,18 @@ Let us now consider the following important features of Python:
 <summary>
 Python distribution is available for a large number of platforms. You need to download only the binary code applicable for your platform and install Python.
 
-If the binary code for your platform is not available, you need a C compiler to compile the source code manually. Compiling the source code offers more flexibility in term of choice of features that you require in your installation. 
-Here is a quick overview of features that you require in your installation.
+If the binary code for your platform is not available, you need a C compiler to compile the source code manually. Compiling the source code offers more flexibility in terms of the  choice of features that you require in your installation. 
+Here is a quick overview of the features that you require in your installation.
 
-Here is quick overview of installing Python on various platforms:
+Here is a quick overview of installing Python on various platforms:
 
 1. **Unix and Linux installation**
 
-* Follow these steps to install Python on Unix/Linux machine.
+* Follow these steps to install Python on a Unix/Linux machine.
     * Open a Web browser and go to https://www.python.org/download
-    * Follow the link to download zipped source code available for Unix/Linux.
+    * Follow the link to download the zipped source code available for Unix/Linux.
     * Download and extract files.
-    * Editing the *Modules/Setup* file if you want to customize some options.
+    * Editing the *Modules/Setup* file if you want to customise some options.
     * run ./configure script
     * make
     * make install
@@ -297,11 +297,11 @@ Here is quick overview of installing Python on various platforms:
 * Follow these steps to install Python on Windows machine. 
 * Follow the link for the Windows installer *python-XYZ.msi* file  where XYZ is the version you need to install.
 * To use this installer *python-XYZ.msi*, the Windows system must support Microsoft Installer 2.0. Save the installer file to your local machine and then run it to find out if your machine supports MSI..
-* Run the downloaded file. This brings up the Python install wizard, which is really easy to use. Just accept the default settings and wait until the install is finished.
+* Run the downloaded file. This brings up the Python install wizard, which is easy to use. Just accept the default settings and wait until the installation is finished.
 
 3. **Macintosh Installation**
 
-* If you are on MAC OS X, it is recommended that you use Homebrew to install Python 3. It is a great package installer for Mac OS X and it is really easy to use. If you don't have Homebrew, you can install it using the following command:
+* If you are on MAC OS X, it is recommended that you use Homebrew to install Python 3. It is a great package installer for Mac OS X, and it is easy to use. If you don't have Homebrew, you can install it using the following command:
 
 ```
 $ ruby -e "$(curl -fsSL
@@ -331,7 +331,7 @@ The path variable is named as PATH in Unix or Path in Windows (Unix is case-sens
 In Mac OS, the installer handles the path details. To invoke the Python interpreter from any particular directory, you must add the Python directory to your path.
 
 ### Setting Path at Unix/Linux
-To add the Python directory to the past for a particular session in Unix:
+To add the Python directory to the path for a particular session in Unix:
 
 * In the csh shell
 
@@ -353,7 +353,7 @@ PATH = "$PATH:/usr/local/bin/python"
 
 **Note**: /usr/local/bin/python is the path of the Python directory.
 
-### Setting a Path at Windows
+### Setting a Path on Windows
 To add the Python directory to the path for a particular session in Windows:
 
 * At the command prompt
@@ -368,8 +368,8 @@ path %path%;C:\Python
 Let us now see the different ways to run Python. The ways are described below:
 
 
-### Interective Interpreter
-We can start Python from Unix, DOS, or any other system that provides you a command-line interpreter or shell window.
+### Interactive Interpreter
+We can start Python from Unix, DOS, or any other system that provides a command-line interpreter or shell window.
 
 * Enter **python** at the command line.
 * Start coding right away in the interactive interpreter.
@@ -386,12 +386,12 @@ Or
 C:> python # Windows/DOS
 ```
 
-Here is the list of all the available command line options:
+Here is the list of all the available command-line options:
 
 | S.No. | Option & Description |
 --- | --- |
 | 1 | **-d** It provides debug output. |
-| 2 | **-o** It generates optimized bytecode (resulting in .pyo files) |
+| 2 | **-o** It generates optimised bytecode (resulting in .pyo files) |
 | 3 | **-s** Do not run import site to look for Python paths on startup. |
 | 4 | **-v** Verbose output (detailed trace on import statements). |
 | 5 | **-x** Disables class-based built-in exceptions (just use strings), obsolete starting with version 1.6 |
@@ -718,14 +718,14 @@ encoder = preprocessing.labelEncoder()
 encoder.fit(input_labels)
 ```
 
-Following would be the output after running the above Python code:
+The following would be the output after running the above Python code:
 
 ```
 LabelEncoder()
 ```
 
-**Step 4 - Checking the performance by encoding random order list**
-This step can be used to check the performance by encoding the random ordered list. Following Python code can be written to do the same:
+**Step 4 - Checking the performance by encoding a random order list**
+This step can be used to check the performance by encoding the randomly ordered list. The following Python code can be written to do the same:
 
 ```
 # encoding a set of labels
@@ -740,29 +740,29 @@ The labels would get printed as follows:
 Labels = ['green', 'red', 'black']
 ```
 
-Now, can we get the list of encoded values i.e. word labels converted to numbers as follows:
+Now, can we get the list of encoded values, i.e. word labels converted to number,s as follows:
 
 ```
 print("Encoded values =", list(envoded_values))
 ```
 
-The encoded values would get printed as follows
+The encoded values would get printed as follows.
 
 ```
 Encoded values = [1, 2, 0]
 ```
 
 **Step 5 - Checking the performance by decoding a random set of numbers**
-This step can be used to check the performance by decoding the random set of numbers. Following Python code can be written to do same:
+This step can be used to check the performance by decoding a random set of numbers. The following Python code can be written to do the same:
 
 ```
 # decoding a set of values
-endoded_values = [3, 0, 4, 1]
+encoded_values = [3, 0, 4, 1]
 decoded_list = encoder.inverse_transform(encoded_values)
 print("\nEncoded values =", encoded values)
 ```
 
-Now, Encoded values would get printed as follows:
+Now, encoded values would get printed as follows:
 
 ```
 Encoded values = [3, 0, 4, 1]
@@ -776,35 +776,35 @@ Decoded labels = ['white', 'black', 'yellow', 'green']
 ```
 
 #### Laveled v/s Unlabeled Data
-Unlabeled data mainly consists of the sample of natural or human-created object that can easily be obtained from the world. They include, audio, video, photos, news articles, etc.
+Unlabeled data mainly consists of a sample of natural or human-created objects that can easily be obtained from the world. They include audio, video, photos, news articles, etc.
 
-On the other hand, labeled data takes a set of unlabeled data and augments each piece of that unlabeled data with some tag or label or class that is meaningful. For example, if we have a photo then the label can be put based on the content of the photo, i.e., it is photo of boy or a girl or animal or anthing else Labeling the data needs human expertise or judgement about a given piece ofunlabeled data.
+On the other hand, labelled data takes a set of unlabeled data and augments each piece of that unlabeled data with some tag or label or class that is meaningful. For example, if we have a photo, then the label can be put based on the content of the photo, i.e., it is a photo of a boy or a girl or an animal or anything else. Labelling the data needs human expertise or judgement about a given piece of unlabeled data.
 
 There are many scenarios where unlabeled data is plentiful and easily obtained but labeled data often requires a human/expert to annotate. Semi-supervised learning attempts to combine labeled and unlabeled data to buld better moodels.
 
 ## Classification
-In this chapter, we will focus on implemeting supervised learning - clasiification.
+In this chapter, we will focus on implementing supervised learning -classification.
 
-The clasiffication technique or model attempts to get some conclusion from observed values. In classification problem, we have the categorized output such as "Black" or "white" or "Teaching" and "Non-Teaching". While building the classification model, we need to have training dataset that contrains data points and the corresponding labels. For example, if we want to check whether the image is of a car or not. For cheking this, we will build a training dataset having the two classes related to "car" and "no car". Then we need to train the model by using training samples. The classification models are mainly used in face recognition, spam identification, etc.
+The classification technique or model attempts to conclude observed values. In a classification problem, we have the categorised outputs such as "Black" or "white" or "Teaching" and "Non-Teaching". While building the classification model, we need to have a training dataset that contains data points and the corresponding labels. For example, if we want to check whether the image is of a car or not. For checking  this, we will build a training dataset having the two classes related to "car" and "no car". Then we need to train the model by using training samples. The classification models are mainly used in face recognition, spam identification, etc.
 
 ### Steps for Building a Classifier in Python
-For building a classifier in Python, we are going to use Python 3 and Scikit-learn which is a tool for machine learning. Follow these steps to build a classifier in Python:
+For building a classifier in Python, we are going to use Python 3 and Scikit-learn, which is a tool for machine learning. Follow these steps to build a classifier in Python:
 
 **Step 1 - Import Scikit-learn**
-This would be very first step for building a classifier in Python. In this step, we will install a Pyhon package called Scikit-learn which is one of the best machine learning modules in Python. The following command will help us import he package:
+This would be the very first step for building a classifier in Python. In this step, we will install a Python package called Scikit-learn,n which is one of the best machine learning modules in Python. The following command will help us import he package:
 
 ```
-Import Sklearn
+import sklearn
 ```
 
 **Step 2 - Import Scikit-learn's dataset**
-In this step, we can begin working with the dataset for our machine learning model. Here, we are going to use **the** Breast Cancer Wisconsin Diagnostic Database. The dataset includes various information about breast cancer tumors, as well as classification label of **malignat** or **benign**. The dataset has 569 instances, or data, on 569 tumors and includes information on 30 attributs, or features, such as the radius of the tumor, texture, smoothness, and are. With the help of the following command, we can import the Scikit-learn's breast cancer dataset:
+In this step, we can begin working with the dataset for our machine learning model. Here, we are going to use **the** Breast Cancer Wisconsin Diagnostic Database. The dataset includes various information about breast cancer tumours, as well as classification labels of **malignant** or **benign**. The dataset has 569 instances, or data, on 56tumoursrs and includes information on 30 attributs, or features, such as the radius of the tumor, texture, smoothness, and are. With the help of the following command, we can import Scikit-learn's breast cancer dataset:
 
 ```
 from sklearn.datasets import load_breast_cancer
 ```
 
-Now, the following command will lload the dataset.
+Now, the following command will load the dataset.
 
 ```
 data = load_breast_cancer()
@@ -817,7 +817,7 @@ Following is a list of important dictionary keys:
 * The attribute/feature names(feature_names)
 * The attribute(data)
 
-Now, with the help of the following command, we can create new variables for each important set of information and assign the data in other words, we can organize the data with the following command:
+Now, with the help of the following command, we can create new variables for each important set of information and assign the data. In other words, we can organise the data with the following command:
 
 ```
 label_names = data['target_names']
@@ -826,26 +826,26 @@ feature_names = data['feature_names']
 features = data ['data']
 ```
 
-Now, to make it clearer we can print the class labels, the first data instance's label, our feature names and the feature's value with the help of the following commands:
+Now, to make it clearer, we can print the class labels, the first data instance's label, our feature names and the feature's value with the help of the following commands:
 
 ```
 print(label_names)
 ```
 
-The above command will print the class names which are malignant and benign respectively. It is shown as the output below:
+The above command will print the class names which are malignant and benign, respectively. It is shown as the output below:
 
 ```
 ['malignant' 'benign']
 ```
 
-Now, the command below will show that they are mapped to binary values 0 and 1. Here 0 represents malignant cancer and 1 represents benign cancer. You will receive the following output:
+Now, the command below will show that they are mapped to binary values 0 and 1. Here, 0 represents malignant cancer and 1 represents benign cancer. You will receive the following output:
 
 ```
 print(labels[0])
 0
 ```
 
-The two commands given below will produce the feature names and fature values.
+The two commands given below will produce the feature names and feature values.
 
 ```
 print(feature_names[0])
@@ -861,29 +861,29 @@ print (features[0])
   4.60100000e-01 1.18900000e-01]
 ```
 
-From the above output, we can see that the first data instance is a malignant tumor the radius of which is 1.7990000e+01.
+From the above output, we can see that the first data instance is a malignant tumour, the radius of which is 1.7990000e+01.
 
-**Step 3 - Organizing data into sets**
-In this step, we will divide our data into two parts namely a traning aset and a test set. Spliting the data into these sets is very important because we have to test our model on the unseen data. To split the data into sets, sklearn has a function called the **train_test_split()** function. With the help of the following commands, we can split the data in thease sets:
+**Step 3 - Organising data into sets**
+In this step, we will divide our data into two parts, namely a training set and a test set. Splitting the data into these sets is very important because we have to test our model on the unseen data. To split the data into sets, sklearn has a function called the **train_test_split()** function. With the help of the following commands, we can split the data into these sets:
 
 ```
 from sklearn.model_selection import train_test_split
 ```
 
-The above command will import the **train_test_split** function from sklearn and the command below will split the data into training and test data. In the example given below, we are using 40 % of the data for testing and remaining data would be used for training the model.
+The above command will import the **train_test_split** function from sklearn, and the command below will split the data into training and test data. In the example given below, we are using 40 % of the data for testing, and the remaining data will be used for training the model.
 
 ```
 train, test, train_labels, test_labels = train_test_split(features)
 ```
 
 **Step 4 - Building the model**
-In this step, we will building our model. We are going to use Naive Bayes algorithm for building the model. Following commands can be used to build the model:
+In this step, we will build our model. We are going to use the Naive Bayes algorithm for building the model. The following commands can be used to build the model:
 
 ```
 from sklearn.naive_bayes import GaussianNB
 ```
 
-The above command will import the GaussianNB module. Now, the following command will help you initialize the model.
+The above command will import the GaussianNB module. Now, the following command will help you initialise the model.
 
 ```
 gnb = GaussianNB()
@@ -896,7 +896,7 @@ model = gnb.fit(train, train_labels)
 ```
 
 **Step 5 - Evaluating the model and its accuracy**
-In this steps, we are going to evaluate the model by making prediction on our test data. Then we will find out its accuracy also. For making predictions, we will use the predict() function. The following command will help you do this:
+In these steps, we are going to evaluate the model by predicting our test data. Then we will find out its accuracy also. For making predictions, we will use the predict() function. The following command will help you do this:
 
 ```
 preds = gnb.predict(test)
@@ -910,9 +910,9 @@ print(preds)
  1 1 0 1 1 1 1 1 1 0 0 0 1 1 0 1 0 1 1 1 1 0 1 1 0 1 1 1 0
  1 0 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 0 0 1 1 0 1]
 ```
-The above series of 0s and 1s are the predicted values for the tumor classes - malignant and benign.
+The above series of 0s and 1s is the predicted values for the tumour classes - malignant and benign.
 
-Now, by comparing the two arrays namely **test_labels** and **preds**, we can find out the accuracy of our model. We are going to use the **accuracy_score()** function to determine the accuracy. Consider the following command for this:
+Now, by comparing the two arrays, namely **test_labels** and **preds**, we can find out the accuracy of our model. We are going to use the **accuracy_score()** function to determine the accuracy. Consider the following command for this:
 
 ```
 from sklearn.metrics import accuracy_score
@@ -922,25 +922,25 @@ print(accuracy_score(test_labels.preds))
 
 The result shows that the NaiveBayes classifier is 95.17% accurate.
 
-In this way, with the help of the above steps we can build our classifier in Python.
+In this way, with the help of the above steps, we can build our classifier in Python.
 
-### Building Classifier in Python
+### Building a Classifier in Python
 In this section, we will learn how to build a classifier in Python. 
 
 #### Naive Bayes Classifier
-Naive Bayes is a classification technique used to build classifier using the Bayes theorem. The assumption is that the predictors are independent. In simple words, it assumes that the presence of a particular feature in a class in unrelated to the presence of any other feature. For building Naive Bayes classifier we need to use the python libary called scikit learn. There are three types of Naive Bayes models named **Gaussian, Multinomial, and BBernoulli** under scikit learn package.
+Naive Bayes is a classification technique used to build classifier using the Bayes theorem. The assumption is that the predictors are independent. In simple words, it assumes that the presence of a particular feature in a class is unrelated to the presence of any other feature. For building a Naive Bayes classifier, we need to use the Python library called scikit learn. There are three types of Naive Bayes models named **Gaussian, Multinomial, and Bernoulli** under sthe cikit learn package.
 
 To build a Naive Bayes machine learning classifier model, we need the following & minus.
 
 #### Dataset
-We are going to use the dataset named Breast Cance Wisconsin Diagnostic Database. The dataset includes various information about breast cancer tumors, as well asa classification labels of **malignant** or **benign**. The dataset has 569 instances, or data, on 569 tumors and includes information on 30 attributes, or features, such as the radius of the tumor, texture, smoothness, and are. We can import this dataset from sklearn package.
+We are going to use the dataset named Breast Cance Wisconsin Diagnostic Database. The dataset includes various information about breast cancer tumours, as well as classification labels of **malignant** or **benign**. The dataset has 569 instances, or data, on 569 tumors and includes information on 30 attributes, or features, such as the radius of the tumor, texture, smoothness, and are. We can import this dataset from the sklearn package.
 
-#### NaIve Bayes Model
-For building Naive Bayes classifier, we need Naive Bayes model. As told earlier, there are three types of Naive Bayes models named **Gaussian, Multinomial** and **Bernoulli** under scikit learn package. Here, in the following example we are going to use the Gaussian Naive Bayes model.
+#### Naive Bayes Model
+For building Naive Bayes classifier, we need Naive Bayes model. As told earlier, there are three types of Naive Bayes models named **Gaussian, Multinomial** and **Bernoulli** under the scikit learn package. Here, in the following example, we are going to use the Gaussian Naive Bayes model.
 
-By using the above, we are going to build a Naive Bayes machine learning model to use the tumor information to predict whether or not a tumor is malignant or benign.
+By using the above, we are going to build a Naive Bayes machine learning model to use the tumour information to predict whether or not a atumourr is malignant or benign.
 
-To begin with, we need to install the sklearn module. It can be done with thehelp of the following command:
+To begin with, we need to install the sklearn module. It can be done with the help of the following command:
 
 ```
 Import Sklearn
@@ -958,7 +958,7 @@ Now, the following command will load the dataset.
 data = load_breast_cancer()
 ```
 
-The data can be organized as follows:
+The data can be organised as follows:
 
 ```
 label_names = data ['target_names']
@@ -966,18 +966,18 @@ labels = data['target']
 feature_names = data['faeture_names']
 features = data['data']
 ```
-Now, to make it cleare we can print the class labels, the first data instance label, our feature names and the features value with the help of the following command:
+Now, to make it clear, we can print the class labels, the first data instance label, our feature names and the feature values with the help of the following command:
 
 ```
 print(label_names)
 ```
-The above command will print the class names which are malignant and benign respectively. It is show as the output below:
+The above command will print the class names which are malignant and benign, respectively. It is shown as the output below:
 
 ```
 ['malignant' 'benign']
 ```
 
-Now, the command given below will show that they are mapped to binary values 0 and 1. Here 0 represents malignant cancer and 1 represents benign cancer. It is shown as the output below:
+Now, the command given below will show that they are mapped to binary values 0 and 1. Here, 0 represents malignant cancer and 1 represents benign cancer. It is shown as the output below:
 
 ```
 print(labels[0])
@@ -1000,7 +1000,7 @@ print(features[0])
 ]
 ```
 
-From the above output, we can see that the first data instance is a malignant tumor the main radius of which is 1.7990000e+01.
+From the above output, we can see that the first data instance is a malignanttumourr the main radius of which is 1.7990000e+01.
 
 For testing our model on unseen data, we need to split our data into training and testing data. It can be done with the help of the following code:
 
@@ -1008,7 +1008,7 @@ For testing our model on unseen data, we need to split our data into training an
 from sklearn.model_selection import train_test_split
 ```
 
-The above command will import the **train_test_split** function from sklearn and the command below will split the data into training and test data. In the below example, we are using 40 % of the data for testing and theremining data would be used for training the model.
+The above command will import the **train_test_split** function from sklearn, and the command below will split the data into training and test data. In the below example, we are using 40 % of the data for testing, and the remaining data will be used for training the model.
 
 ```
 train, test, train_labels, test_labels = 
@@ -1021,7 +1021,7 @@ Now, we are building the model with the following command:
 from sklearn.naive_bayes import GaussianNB
 ```
 
-The above command will import the GaussianNB module. Now, with the command given below we need to initialize the model.
+The above command will import the GaussianNB module. Now, with the command given below, we need to initialise the model.
 
 ```
 gnb = GaussianNB()
@@ -1033,7 +1033,7 @@ We will train the model by fitting it to the data by using gnb.fit()
 model = gnb.fit(train, train_labels)
 ```
 
-Now, evaluate the model by making prediction on the test data and it can be done as follows:
+Now, evaluate the model by predicting the test data, and it can be done as follows:
 
 ```
 preds = gnb.predict(test)
@@ -1048,9 +1048,9 @@ print(preds)
  1 0 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 0 0 1 1 0 1]
 ```
 
-The above series of 0s and 1s are the predicted values for the tumor classes i.e. malignant and benign.
+The above series of 0s and 1s is the predicted values for the tumour classes, i.e. malignant and benign.
 
-Now, by comparing the two arrays namely **test_labels** and **preds**, we can find out the accuracy of our model. We are going to use the **accuracy_score()** function to determine the accuracy. Consider the following command:
+Now, by comparing the two arrays, namely **test_labels** and **preds**, we can find out the accuracy of our model. We are going to use the **accuracy_score()** function to determine the accuracy. Consider the following command:
 
 ```
 from sklearn.metrics import accuracy_score
@@ -1058,27 +1058,25 @@ print(accuracy_score(test_labels.preds))
 0.951754385967
 ```
 
-The result shows that NaiveBayes classifier is 95.17% accurate.
-
-That was machine learning classifier based on Naive Bayse Gaussian model.
+The result shows that our Naive Bayes Classifier is 95.17% accurate.
 
 ### Support Vector Machine (SVM)
-Basically, Support vector machine (SVM) is a supervised machine learning algorithm that can be used for both regression and classification. The main concept of SVM is to plot each data item as a point in n-dimensional space with the value of each feature being the value of a particular coordinate. Here n would be the features we would have. Following is a simple graphical representation to understand the concept of SVM:
+Basically, a Support vector machine (SVM) is a supervised machine learning algorithm that can be used for both regression and classification. The main concept of SVM is to plot each data item as a point in n-dimensional space, with the value of each feature being the value of a particular coordinate. Here n would be the features we would have. The following is a simple graphical representation to understand the concept of SVM:
 
 ![03 Vectors](https://user-images.githubusercontent.com/124214430/223155706-fc99393b-72fd-4ec8-8436-0f19b2205287.png)
 
-In the above diagram, we have two features. Hence, we first need to plot these two variables in two dimensional space where each point has two coordinates, called support vectors. The line splits the data into two different classified groups. This line would be the classifier.
+In the above diagram, we have two features. Hence, we first need to plot these two variables in two-dimensional space where each point has two coordinates, called support vectors. The line splits the data into two different classified groups. This line would be the classifier.
 
-Here, we are going to build an SVM classifier by using scikit-learn and iris dataset. Sciktlearn libary has the **sklearn.svm** module and provides sklearn.svm.svc for classification. The SVM classifier to predict the class of the iris plant based on 4 features are shown below.
-
-### Dataset
-We will use the iris dataset which contains 3 classes of 50 instance each, where each class refers to a type of iris plant. Each instance has the four features namely sepal length, speal width, petal length and petal width. The SVM classifier to predict the class of the iris plant based on 4 features is shown below.
+Here, we are going to build an SVM classifier by using scikit-learn and the iris dataset. Scikit-learn library has the **sklearn.svm** module and provides sklearn.svm.svc for classification. The SVM classifier is used to predict the class of the iris plant based on 4 features shown below.
 
 ### Dataset
-We will use the iris dataset which contains 3 classes of 50 instances each, where each class refers to a type of iris plant. Each instance has the four features namely sepal length, sepal width, petal length and petal width. The SVM classifier to predict the class of the iris plant based on 4 features is shown below.
+We will use the iris dataset, which contains 3 classes of 50 instances each, where each class refers to a type of iris plant. Each instance has the four features namely sepal length, sepal width, petal length and petal width. The SVM classifier to predict the class of the iris plant based on 4 features is shown below.
+
+### Dataset
+We will use the iris dataset, which contains 3 classes of 50 instances each, where each class refers to a type of iris plant. Each instance has the four features, namely sepal length, sepal width, petal length and petal width. The SVM classifier to predict the class of the iris plant based on 4 features is shown below.
 
 ### Kernel
-It is a technique used by SVM. Basically these are the functions which take low-dimensional input space and transform it to a higher dimensional space. It converts non-separable problem to separable problem. The kernel function can be any on amoung linear, polynomial, rbf and sigmoid. In this example, we will use the linear kernel.
+It is a technique used by SVM. Basically, these are the functions that take a low-dimensional input space and transform it to a higher-dimensional space. It converts non-separable problem to separable problem. The kernel function can be any on among linear, polynomial, RBF and sigmoid. In this example, we will use the linear kernel.
 
 Let us now import the following packages:
 
@@ -1095,7 +1093,7 @@ Now, load the input data:
 iris = datasets.load_iris()
 ```
 
-We are taking first two features:
+We are taking the first two features:
 
 ```
 x = iris.data [:, :2]
@@ -1687,10 +1685,10 @@ ancestor(X,Z):-father(X,Y), ancestor(Y,Z).
 This an be read as, for every X and Y, if X is the father of Y and Y is an ancestor Z, X is the ancestor of Z. For every X and Y, X is the ancestor of Z, if X is the father of Y and Y is an ancestor of Z.
 
 ## Installing Useful Packages
-For starting logic programming in Python, we need to install the fllowing two packages.
+For starting logic programming in Python, we need to install the following two packages.
 
 ### Kanren
-It provides us a way to simplify the way we made code for business logic. It lets us express the logic in term of rules and facts. The following command will help you install kanren:
+It lets us express the logic in term of rules and facts. The following command will help you install kanren:
 
 ```
 pip install kanren

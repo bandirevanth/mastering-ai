@@ -10,5 +10,5 @@
 
 ## Reporting a Vulnerability
 
-You can report a vulnerability in the Issues tab / Discussions page / my mail
+You can report a vulnerability in the Issues tab / Discussions page / my mail  
 Thank you for your time and contributions :)

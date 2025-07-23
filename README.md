@@ -1,7 +1,11 @@
 # Mastering AI: A Guide
 Welcome to the AI manual, your guide to the rapidly evolving world of Artificial Intelligence. This manual provides an overview of AI technology, its various applications, and the ethical considerations surrounding its development and implementation. Whether you are a student, researcher, or industry professional, this manual offers a comprehensive introduction to the exciting and dynamic field of AI.
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-G3W8fM0LYf43i22wsCxTnwJeLAGE43_OeQ&s" align=right>
+
 AI is a rapidly advancing field with groundbreaking applications. Python, with its libraries and frameworks, has become a popular language for developing AI solutions. Python's extensive libraries and frameworks, such as TensorFlow and PyTorch, provide efficient and user-friendly tools for developing AI applications.
+
+_**Project created & maintained by Bandi Revanth.**_
 
 # Content
 
